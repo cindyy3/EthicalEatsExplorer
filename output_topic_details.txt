@@ -1,0 +1,99 @@
+Topic: Restaurant Database
+
+Description: 
+Restaurant,Price,Type of Restaurant,Gluten-free Options?,Vegan Options?,Lactose-Intolerant Options?,Pescatarian Options?,Allergen-Friendly Options?,Halal Options?,Kosher Options?,Vegetarian Options?,Website
+Harvest Beat,High,American,Yes,Yes,Yes,Yes,No,No,No,Yes,https://www.harvestbeat.com/
+Pabla Indian Cuisine,Low,Indian,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,http://www.pablacuisine.com/mainsite/index.html
+Plum Bistro,Moderate,American,Yes,Yes,Yes,Yes,Yes,No,No,Yes,https://plumbistro.com/
+Portage Bay Cafe,Low,American,Yes,Yes,Yes,Yes,No,No,No,Yes,https://www.portagebaycafe.com/
+Duke's Seafood,High,American,Yes,No,Yes,Yes,Yes,No,No,No,https://www.dukesseafood.com/
+Olmstead,Moderate,American,No,No,No,No,No,No,No,No,https://www.olmsteadseattle.com/home
+Tanoor,Moderate,Middle Eastern,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,https://www.tanoor.com/
+Chiho Bistro,Low,Chinese,No,Yes,No,No,No,No,No,No,https://www.chihobistro.com/
+Cantinetta,Moderate,Italian,No,No,No,No,No,No,No,No,https://www.cantinettausa.com/wallingfordYes
+Mamnoon,Moderate,Middle Eastern,Yes,Yes,Yes,Yes,No,Yes,No,Yes,https://nadimama.com/mamnoon
+Pestle Rock,Moderate,Thai,Yes,Yes,Yes,Yes,No,No,No,Yes,https://pestlerock.com/
+Marination Ma Kai,Low,Hawaiian-Korean,Yes,No,Yes,Yes,Yes,No,No,Yes,https://marinationmobile.com/menu
+Gorgeous George's,Moderate,Middle Eastern,Yes,Yes,Yes,Yes,No,Yes,No,Yes,https://www.gorgeousgeorges.com/
+Mashiko,High,Japanese,No,Yes,Yes,Yes,Yes,No,No,No,https://www.mashikorestaurant.com/
+Veggie Grill ,Low,American,Yes,Yes,Yes,Yes,Yes,No,No,Yes,https://www.veggiegrill.com/menus/
+Meskel Ethiopian Restaurant,Moderate,Ethiopian,Yes,Yes,Yes,Yes,Yes,No,No,Yes,https://meskelethiopian.com/menu
+Maza Grill,Moderate,Pakistani,No,No,No,No,No,Yes,No,No,https://mazagrill.co/
+Ben's Fast Food,Low,Mexican,Yes,Yes,Yes,Yes,Yes,No,No,Yes,https://bensfastfood.com/
+Mint Progressive Indian,Moderate,Indian,Yes,Yes,Yes,Yes,Yes,No,No,Yes,https://www.mintprogressive.com/
+Sal y Limon,Moderate,Mexican,No,No,No,No,No,No,No,Yes,https://www.salylimonseattle.com/
+El Borracho,Low,Mexican,Yes,Yes,Yes,Yes,No,No,No,Yes,https://www.elborracho.co/
+Gold Coast Ghal,Moderate,Ghanaian,No,No,No,No,No,No,No,No,https://www.goldcoastghal.com/
+Blossom Vegetarian,Low,Vietnamese,Yes,Yes,Yes,Yes,No,No,No,Yes,https://www.blossomrenton.com/
+Musang ,High,Filipino,Yes,No,Yes,Yes,Yes,No,No,Yes,https://www.musangseattle.com/
+Terra Plata,High,Spanish,No,No,No,Yes,No,No,No,Yes,https://www.terraplata.com/
+Musang Seattle,Moderate,Filipino,Yes,Yes,Yes,Yes,No,No,No,Yes,https://www.musangseattle.com/musang
+Cafe Turko,Moderate,Turkish,Yes,Yes,Yes,Yes,No,Yes,No,Yes,https://cafeturko.com/#
+Habesha Cafe,Moderate,Ethiopian,No,Yes,No,Yes,No,No,No,Yes,https://habesha.cafe/
+Zaina,Low,Middle Eastern,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,https://www.yelp.com/biz/zaina-food-drinks-and-friends-seattle-3
+Gold Schnitzel,Moderate,Middle Eastern,No,No,Yes,No,No,No,Yes,No,https://goldschnitzel.com/
+The Pink Door,High,Italian,Yes,Yes,Yes,No,No,No,No,No,https://www.thepinkdoor.net/
+Uptown China,Moderate,Chinese,No,Yes,Yes,Yes,No,No,No,Yes,https://uptown-china.com/
+
+Topic: Vietnamese Restaurants
+
+Description: Blossom Vegetarian
+
+Topic: American Restaurants
+
+Description: Harvest Beat, Plum Bistro, Portage Bay Cafe, Duke's Seafood, Olmstead, Veggie Grill, Cafe Flora, Bounty Kitchen, No Bones Beach Club
+
+Topic: Chinese Restaurants
+
+Description: Chiho Bistro, Uptown China
+
+Topic: Ethiopian Restaurants
+
+Description: Meskel Ethiopian Restaurant, Habesha Cafe
+
+Topic: Filipino Restaurants
+
+Description: Musang
+
+Topic: Ghanaian Restaurants
+
+Description: Gold Coast Ghal
+
+Topic: Hawaiian-Korean Restaurants
+
+Description: Marination Ma Kai
+
+Topic: Indian Restaurants
+
+Description: Pabla Indian Cuisine, Mint Progressive Indian
+
+Topic: Italian Restaurants
+
+Description: Cantinetta, The Pink Door
+
+Topic: Japanese Restaurants
+
+Description: Mashiko
+
+Topic: Mexican Restaurants
+
+Description: Ben’s Fast Food, Sal y Limon, El Borracho
+
+Topic: Middle Eastern Restaurants
+
+Description: Gold Schnitzel, Zaina, Gorgeous George’s, Mamnoon, Tanoor
+
+Topic: Pakistani Restaurants
+
+Description: Maza Grill
+
+Topic: Spanish Restaurants
+
+Description: Terra Plata
+
+Topic: Thai Restaurants
+
+Description: Pestle Rock, Araya’s Place
+
+Topic: Budget
+Description: Budget is the same thing as price
